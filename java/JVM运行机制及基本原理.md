@@ -32,7 +32,7 @@ JVM中的线程分为两种：守护线程和普通线程
 
 ## JVM结构体系
 
-![v2-2cdedcdf752a00bafc1ee9d9901580c0_720w](/Users/lihang/Documents/学习笔记/java/img/v2-2cdedcdf752a00bafc1ee9d9901580c0_720w.webp)
+![v2-2cdedcdf752a00bafc1ee9d9901580c0_720w](./img/v2-2cdedcdf752a00bafc1ee9d9901580c0_720w.webp)
 
 ### class文件
 
